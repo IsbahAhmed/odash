@@ -8,5 +8,24 @@
   },
   "author": "Isbah Ahmed",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsbahAhmed/odash.git"
+  },
+  "keywords": [
+    "odash",
+    "ODASH",
+    "lodash",
+    "lodesh",
+    "odesh",
+    "desh",
+    "dash",
+    "utils",
+    "dashutils",
+    "isbah"
+  ],
+  "bugs": {
+    "url": "https://github.com/IsbahAhmed/odash.git"
+  }
 }
