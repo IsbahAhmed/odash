@@ -1,2 +1,2 @@
 // export * as types from  "./types"
-export * from './common.js'
+export * as o_ from './common.js'
