@@ -1,4 +1,4 @@
-# ODASH
+# ODASH-JS
 
 <!-- ![Your Package Logo](https://your-logo-url.com) *(Optional: If you have a logo)* -->
 
@@ -33,4 +33,4 @@ A collection of utility functions for JavaScript development. Simplify your codi
 Install this package using npm:
 
 ```bash
-npm install odash
+npm install odash-js
