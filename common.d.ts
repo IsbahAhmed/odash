@@ -19,4 +19,6 @@ declare module 'odash' {
     export const downloadFileFromUrl: (url: string, fileName: string) => void;
     export const isEmptyString: (value: any) => boolean;
 }
-  
+
+export = o_;
+export as namespace o_;
