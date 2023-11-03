@@ -1,6 +1,6 @@
 {
   "name": "odash-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reuseable functions and utilities. ",
   "main": "index.js",
   "scripts": {
